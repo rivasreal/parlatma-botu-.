@@ -26,4 +26,4 @@ async def parlat(ctx):
 
 keep_alive()
 # Aşağıdaki tırnak içine Discord Developer Portal'dan aldığın TOKENİ yapıştır!
-bot.run('MTQ1NTk3NDM5NTgyOTk0ODU3Nw.GFEypU.ByWgBMEdE-ZPfKkKrA7CwyKQ9U_CoFLbCJHSsk')
+bot.run('')
